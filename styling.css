@@ -1,0 +1,28 @@
+body{
+    font-family: Arvo,serif;
+    background: url(images/bgcurrency.jpg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+#head{
+    height: 100px;
+    width:100%;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+#wrapper{
+    text-align: center;
+}
+
+.buttons{
+    margin-left: 70px;
+}
+
+.result{
+    height: 20px;
+    color: white;
+}
